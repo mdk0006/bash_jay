@@ -1,0 +1,7 @@
+ls means list storage
+echo $SHELL to check the name of shell
+which shell to check the location of shell is installed in
+#! --> known as shebang
+variables defined on the terminals are only saved for that session
+the variables named with upper case are environment variables also known as system variables
+You can find system/environment variables by typing env

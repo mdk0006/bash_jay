@@ -1,3 +1,9 @@
+Math Functions
+command -v can be used to check if the command is present or not also 
+[] are not needed if you are not using test/check condition in the if 
+you have to use
+expr num1 <operator> num2
+expr num1 \* num2 because * is the special purpose in bash
 ls means list storage
 echo $SHELL to check the name of shell
 which shell to check the location of shell is installed in
